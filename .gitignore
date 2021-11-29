@@ -39,4 +39,3 @@ echarts.js linguist-vendored=false
 common.js linguist-vendored=false
 bootstrap.js linguist-vendored=false
 art-template.js linguist-vendored=false
-*.js linguist-language=objective-c
