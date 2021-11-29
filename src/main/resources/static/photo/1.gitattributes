@@ -1,0 +1,7 @@
+special-vendored-path/* linguist-vendored
+jquery3.3.1.js linguist-vendored=false
+unslider.min.js linguist-vendored=false
+echarts.js linguist-vendored=false
+common.js linguist-vendored=false
+bootstrap.js linguist-vendored=false
+art-template.js linguist-vendored=false
