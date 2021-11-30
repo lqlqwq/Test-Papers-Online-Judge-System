@@ -40,7 +40,6 @@ $(function () {
     });
     var flagbox=true;
     $(".icon3").click(function () {
-        document.execCommand("copy");
         if (flagbox){
             flagbox=false;
             var height=$("#snow").height();
@@ -62,12 +61,16 @@ $(function () {
         }
     });
     $(".icon1").click(function () {  //https://twitter.com/
-        window.open("https://twitter.com/");
+        window.open("https://github.com/lqlqwq/Test-Papers-Online-Judge-System");
     });
     $(".icon2").click(function () {  //https://twitter.com/
         window.open("https://twitter.com/");
     });
     $(document).ready(function(){
         var clip=new ClipboardJS(".icon3");
+    });
+    $(".dowload").click(function () {
+        var num=Math.ceil(Math.random()*4)-1;
+        $("#test1")[num].click();
     })
 })

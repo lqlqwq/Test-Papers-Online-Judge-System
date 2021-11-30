@@ -128,10 +128,16 @@
         <ul>
             <li><text class="iconfont">教师可以登录用户名lqlqwq密码159753进行体验&#xe601;&#xe601;</text></li>
             <li><text class="iconfont">学生可以登录用户名shagou密码123321进行体验&#xe600;&#xe600;&#xe600;</text></li>
-            <li><text class="iconfont">点击下载学生用交卷答题卡&#xe618;&#xe618;&#xe618;</text></li>
+            <li><text class="iconfont dowload">点击下载学生用交卷答题卡&#xe618;&#xe618;&#xe618;</text></li>
             <li><text class="iconfont">要是让客户看见我们的评论都是编的就完蛋了&#xe68c;&#xe846;&#xe613;</text></li>
         </ul>
     </div>
+</div>
+<div style="position: fixed;z-index: 100;top: 200px">
+    <a href="./img/other/1.png" download="test" id="test1">下载答题卡模板</a>
+    <a href="./img/other/2.png" download="test" id="test1">下载答题卡模板</a>
+    <a href="./img/other/3.png" download="test" id="test1">下载答题卡模板</a>
+    <a href="./img/other/4.png" download="test" id="test1">下载答题卡模板</a>
 </div>
 <div class="copyok">复制成功！(=・ω・=)</div>
 <div class="support mid">
