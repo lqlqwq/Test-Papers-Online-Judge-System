@@ -94,11 +94,11 @@
 
 .banner { position: relative; text-align: center;width: 1200px;margin-top: 50px}
 
-.banner li { list-style: none; }
+.banner li { list-style: none;}
 
 .banner ul li { float: left;height: 350px;width: 1200px;}
 
-.banner ul li text{display: block;height: 250px;width: 600px;text-align: center;margin-top: 50px;margin-left: 300px;background-color: rgba(135, 191, 255, 0.5);border-radius: 50px;line-height: 220px;font-size: 20px;
+.banner ul li text{display: block;height: 250px;width: 600px;position: relative;z-index: 100;text-align: center;margin-top: 50px;margin-left: 300px;background-color: rgba(135, 191, 255, 0.5);border-radius: 50px;line-height: 220px;font-size: 20px;
     }
 
 .go-top{height: 50px;width: 50px;position: fixed;left: 50%;margin-left: 605px;top: 80vh;background: url("../img/icon/go-top.png") no-repeat;background-size: 100%}

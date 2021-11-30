@@ -71,6 +71,6 @@ $(function () {
     });
     $(".dowload").click(function () {
         var num=Math.ceil(Math.random()*4)-1;
-        $("#test1")[num].click();
+        document.querySelectorAll("#test1")[num].click();
     })
 })

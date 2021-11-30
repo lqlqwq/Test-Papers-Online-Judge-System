@@ -133,11 +133,11 @@
         </ul>
     </div>
 </div>
-<div style="position: fixed;z-index: 100;top: 200px">
-    <a href="./img/other/1.png" download="test" id="test1">下载答题卡模板</a>
-    <a href="./img/other/2.png" download="test" id="test1">下载答题卡模板</a>
-    <a href="./img/other/3.png" download="test" id="test1">下载答题卡模板</a>
-    <a href="./img/other/4.png" download="test" id="test1">下载答题卡模板</a>
+<div style="display: none">
+    <a href="./img/other/1.png" download="test1" id="test1">下载答题卡模板</a>
+    <a href="./img/other/2.png" download="test2" id="test1">下载答题卡模板</a>
+    <a href="./img/other/3.png" download="test3" id="test1">下载答题卡模板</a>
+    <a href="./img/other/4.png" download="test4" id="test1">下载答题卡模板</a>
 </div>
 <div class="copyok">复制成功！(=・ω・=)</div>
 <div class="support mid">
