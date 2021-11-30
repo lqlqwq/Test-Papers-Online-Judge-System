@@ -3,6 +3,9 @@ The goal of this project is to complete an automated marking system that allows 
 
 
 Download Echars.js and put it into src/main/resources/static/js
+
 Create a director in C://BisheIMG
+
 Put an OpenCV Dll file named as opencv_java3415.dll into the director
+
 Getting started!
